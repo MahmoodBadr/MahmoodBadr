@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://avatars.githubusercontent.com/u/18200548?v=4" width="200"/>
+  <img src="https://www.dropbox.com/s/iky5bx9tp8sxq9j/Cropped%20Mahmood%20Image.jpg?raw=1" width="200"/>
 </div>
 
 <div id="badges" align="center">
