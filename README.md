@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://www.dropbox.com/s/iky5bx9tp8sxq9j/Cropped%20Mahmood%20Image.jpg?raw=1" width="200"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mahmood-badr/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
