@@ -10,4 +10,5 @@
 </h1>
 
 - 👋 Hi, I’m @MahmoodBadr! I am an outgoing and energetic computer science student at The University of British Columbia. I am open to opportunities that fit my professional skills and personality. Feel free to contact me.
+- 🌱  I’m currently programming in Python, Java, JavaScript, and HTML/CSS
 - 📫 You can reach out to me through my LinkedIn and Email.
