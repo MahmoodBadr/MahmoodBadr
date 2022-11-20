@@ -12,3 +12,8 @@
 - 👋 Hi, I’m @MahmoodBadr! I am an outgoing and energetic computer science student at The University of British Columbia. I am open to opportunities that fit my professional skills and personality. Feel free to contact me.
 - 🌱  I’m currently programming in Python, Java, JavaScript, and HTML/CSS
 - 📫 You can reach out to me through my LinkedIn and Email.
+- 💻 I enjoy working on software side projects which I describe below:
+
+* SolEarth is a web application that takes a user's address and provides them the amount of energy that can be produced from setting up solar panels at their home. It also does an assessment on whether or not it is actually eco-friendly for solar panels to be built at that location.
+*
+*
