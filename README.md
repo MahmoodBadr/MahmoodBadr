@@ -14,6 +14,6 @@
 - 📫 You can reach out to me through my LinkedIn and Email.
 - 💻 I enjoy working on software side projects which I describe below:
 
-* SolEarth is a web application that takes a user's address and provides them the amount of energy that can be produced from setting up solar panels at their home. It also does an assessment on whether or not it is actually eco-friendly for solar panels to be built at that location.
-* Brokol is an IOS grocery management application designed during the BC Hacks 4.0 hackathon. It's functionality includes a scanner with machine learning which utilized optical character recognition to identify and store food items from a purchase receipt.
-* Snake Game is a python application. This project utilizes the Python Turtle library. The game is functional so feel free to give it a try.
+* [SolEarth](https://github.com/MahmoodBadr/SolEarth) is a web application that takes a user's address and provides them the amount of energy that can be produced from setting up solar panels at their home. It also does an assessment on whether or not it is actually eco-friendly for solar panels to be built at that location.
+* [Brokol](https://github.com/MahmoodBadr/Brokol-App) is an IOS grocery management application designed during the BC Hacks 4.0 hackathon. It's functionality includes a scanner with machine learning which utilized optical character recognition to identify and store food items from a purchase receipt.
+* [Snake Game](https://github.com/MahmoodBadr/Snake-Game) is a python application. This project utilizes the Python Turtle library. The game is functional so feel free to give it a try.
