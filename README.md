@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- 👋 Hi, I’m @MahmoodBadr! I am an outgoing and energetic computer science student at The University of British Columbia. I am open to opportunities that fit my professional skills and personality. Feel free to contact me.
+- 👋 Hi, I’m Mahmood Badr! I am an outgoing and energetic computer science student at The University of British Columbia. I am open to opportunities that fit my professional skills and personality. Feel free to contact me.
 - 🌱  I’m currently programming in Python, Java, JavaScript, and HTML/CSS
 - 📫 You can reach out to me through my LinkedIn and Email.
 - 💻 I enjoy working on software side projects which I describe below:
